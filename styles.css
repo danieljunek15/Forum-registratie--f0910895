@@ -1,0 +1,25 @@
+#NameInputBox {
+    width: 200px;
+    border-radius: 3px;
+}
+
+#MailInputBox {
+    width: 200px;
+    border-radius: 3px;
+}
+
+#AgeInputBox {
+    border-radius: 3px;
+}
+
+#ButtonBox {
+    border-radius: 3px;
+}
+
+#Forum_registratie {
+    font-size: 40px;
+}
+
+#Forum_registraties {
+    font-size: 40px;
+}
